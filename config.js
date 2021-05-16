@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://img.icons8.com/ios/50/000000/wise-mind.png',
+    logo: './images/Home.png',
     logoLink: 'https://your-missing-piece.github.io',
     title: "",
     githubUrl: '',
