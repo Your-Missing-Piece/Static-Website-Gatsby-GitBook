@@ -8,8 +8,7 @@ const config = {
   header: {
     logo: 'https://img.icons8.com/ios/50/000000/wise-mind.png',
     logoLink: 'https://your-missing-piece.github.io',
-    title:
-      "<a href='https://your-missing-piece.github.io'><img class='img-responsive' src='https://img.icons8.com/ios/50/000000/wise-mind.png' alt='Learn logo' /></a>",
+    title: "",
     githubUrl: '',
     helpUrl: '',
     tweetText: '',
