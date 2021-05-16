@@ -9,8 +9,8 @@ const config = {
     logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
     logoLink: 'https://your-missing-piece.github.io',
     title:
-      "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+      "<a href='https://your-missing-piece.github.io'><img src="https://img.icons8.com/ios/50/000000/wise-mind.png"/></a>",
+    githubUrl: 'https://github.com/Your-Missing-Piece/your-missing-piece.github.io',
     helpUrl: '',
     tweetText: '',
     social: ``,
