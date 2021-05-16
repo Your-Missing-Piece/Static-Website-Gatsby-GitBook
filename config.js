@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: './images/Home.png',
+    logo: './images/github.svg',
     logoLink: 'https://your-missing-piece.github.io',
     title: "",
     githubUrl: '',
