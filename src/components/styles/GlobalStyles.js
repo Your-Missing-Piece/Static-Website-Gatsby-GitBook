@@ -414,7 +414,7 @@ export const baseStyles = injectGlobal`
   }
 
   .logoWrapper img {
-    width: 40px;
+    width: 20px;
   }
 
   .sideBarUL {
