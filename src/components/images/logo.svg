@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100"
-   height="100"
-   viewBox="0 0 16.677524 16.68"
+   width="30.702358"
+   height="49.999989"
+   viewBox="0 0 5.1203932 8.3399981"
    preserveAspectRatio="xMidYMid"
    version="1.1"
    id="svg3815"
@@ -30,7 +30,7 @@
   <defs
      id="defs3819">
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Invert"
        id="filter3945">
       <feColorMatrix
@@ -82,15 +82,15 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="3.6611161"
-     inkscape:cx="37.791162"
-     inkscape:cy="33.131718"
+     inkscape:cx="4.5765458"
+     inkscape:cy="5.3956686"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3815" />
   <g
      id="g3941"
-     transform="matrix(0.03200045,0,0,0.03200045,3.7528999,1.5313898)"
+     transform="matrix(0.01667042,0,0,0.01667042,0.42552476,0.69499983)"
      style="filter:url(#filter3945)">
     <path
        id="path3803"
