@@ -13,7 +13,7 @@
    preserveAspectRatio="xMidYMid"
    version="1.1"
    id="svg3815"
-   sodipodi:docname="ethereum-1.svg"
+   sodipodi:docname="logo.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata3821">
@@ -28,7 +28,42 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3819" />
+     id="defs3819">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter3945">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic"
+         id="feColorMatrix3943" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3947" />
+      <feColorMatrix
+         id="feColorMatrix3949"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3951" />
+      <feColorMatrix
+         id="feColorMatrix3953"
+         type="hueRotate"
+         values="180"
+         result="color1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3955"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -55,7 +90,8 @@
      inkscape:current-layer="svg3815" />
   <g
      id="g3941"
-     transform="matrix(0.04000902,0,0,0.04000902,3.001162,0)">
+     transform="matrix(0.04000902,0,0,0.04000902,3.001162,0)"
+     style="filter:url(#filter3945)">
     <path
        id="path3803"
        d="m 127.961,0 -2.795,9.5 v 275.668 l 2.795,2.79 127.962,-75.638 z"
