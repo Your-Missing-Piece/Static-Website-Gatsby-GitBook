@@ -7,7 +7,7 @@ const config = {
   },
   header: {
     logo: 'https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ethereum.svg',
-    logoLink: '',
+    logoLink: 'https://your-missing-piece.github.io',
     title: "",
     githubUrl: '',
     helpUrl: '',
