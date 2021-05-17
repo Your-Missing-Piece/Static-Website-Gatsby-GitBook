@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: './images/logo.svg',
+    logo: 'https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ethereum.svg',
     logoLink: '',
     title: "",
     githubUrl: '',
